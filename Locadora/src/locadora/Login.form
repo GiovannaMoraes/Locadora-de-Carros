@@ -20,9 +20,6 @@
   </NonVisualComponents>
   <Properties>
     <Property name="defaultCloseOperation" type="int" value="3"/>
-    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-      <Dimension value="[350, 200]"/>
-    </Property>
     <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
       <Dimension value="[350, 200]"/>
     </Property>
@@ -151,7 +148,7 @@
               <StringArray count="3">
                 <StringItem index="0" value="Gerente"/>
                 <StringItem index="1" value="Administrador"/>
-                <StringItem index="2" value="Funcion&#xe1;rio"/>
+                <StringItem index="2" value="Atendente"/>
               </StringArray>
             </Property>
           </Properties>
